@@ -4,8 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/WinAppSandBoxGeneral.iml" filepath="$PROJECT_DIR$/.idea/WinAppSandBoxGeneral.iml" />
       <module fileurl="file://$PROJECT_DIR$/WinAppSandBoxGeneral-Fedora.iml" filepath="$PROJECT_DIR$/WinAppSandBoxGeneral-Fedora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-Fedora.main.iml" filepath="$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-Fedora.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-Fedora.test.iml" filepath="$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-Fedora.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/WinAppSandBoxGeneral-MacOS.iml" filepath="$PROJECT_DIR$/WinAppSandBoxGeneral-MacOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-MacOS.main.iml" filepath="$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-MacOS.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-MacOS.test.iml" filepath="$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-MacOS.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/WinAppSandBoxGeneral-Windows.iml" filepath="$PROJECT_DIR$/WinAppSandBoxGeneral-Windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-Windows.main.iml" filepath="$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-Windows.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-Windows.test.iml" filepath="$PROJECT_DIR$/.idea/modules/WinAppSandBoxGeneral-Windows.test.iml" />
     </modules>
   </component>
 </project>

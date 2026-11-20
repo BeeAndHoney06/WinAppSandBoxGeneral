@@ -4,14 +4,29 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/WinAppSandBoxGeneral-Fedora" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/WinAppSandBoxGeneral-Fedora" />
+          </set>
+        </option>
         <option name="myGradleHome" value="" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/WinAppSandBoxGeneral-MacOS" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/WinAppSandBoxGeneral-MacOS" />
+          </set>
+        </option>
         <option name="myGradleHome" value="" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/WinAppSandBoxGeneral-Windows" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/WinAppSandBoxGeneral-Windows" />
+          </set>
+        </option>
         <option name="myGradleHome" value="" />
       </GradleProjectSettings>
     </option>

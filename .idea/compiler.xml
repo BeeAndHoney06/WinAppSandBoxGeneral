@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="WinAppSandBoxGeneral-Fedora" target="26" />
+      <module name="WinAppSandBoxGeneral-Fedora.main" target="26" />
+      <module name="WinAppSandBoxGeneral-Fedora.test" target="26" />
+      <module name="WinAppSandBoxGeneral-MacOS" target="26" />
+      <module name="WinAppSandBoxGeneral-MacOS.main" target="26" />
+      <module name="WinAppSandBoxGeneral-MacOS.test" target="26" />
+      <module name="WinAppSandBoxGeneral-Windows" target="26" />
+      <module name="WinAppSandBoxGeneral-Windows.main" target="26" />
+      <module name="WinAppSandBoxGeneral-Windows.test" target="26" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
